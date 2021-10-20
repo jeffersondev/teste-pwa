@@ -1,0 +1,16 @@
+{
+  "background_color": "#f00a0a",
+  "description": "",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "My ecommerce",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Eco",
+  "start_url": "/",
+  "theme_color": "#d90d0d",
+  "categories": [],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": []
+}
