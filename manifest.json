@@ -7,7 +7,7 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "Eco",
-  "start_url": "/",
+  "start_url": "/index.html",
   "theme_color": "#d90d0d",
   "categories": [],
   "screenshots": [],
